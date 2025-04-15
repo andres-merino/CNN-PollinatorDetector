@@ -16,11 +16,6 @@
     <a href="https://github.com/andres-merino/CNN-PollinatorDetector/issues">Reportar un Problema</a>
     <br />
     <br />
-    Abrir en 
-    <br />
-    <a href="https://colab.research.google.com/">
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge" alt="Google Colab Badge">
-    </a>
   </p>
 </div>
 
